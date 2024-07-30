@@ -11,31 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Biology & Psychologyy
+University of Virginia, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July 2023 - Present: Biospecimen Coordinator
+  * Dana-Farber Cancer Institute
+    * Center for Cancer Genomics
+  * 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August - December 2022: Teaching Assistant
+  * University of Virginia
+    * PYSC 2200: The Neural Basis of    Behavior
+  * Duties and Responsibilities:
+    * 
+  * Supervisor: Dr. Erin Clabough
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May - August 2022: Experiential Intern
+  * AbbVie
+    * Precision Medicine Pathology, Histology
+  * Responsibilities:
+    * 
+  * Supervisor: Juliet Markeson
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Technical
+  * R
+  * Python
+  * Linux
+  * Git
+  * Github
+  * Data analysis, visualization, cleaning, and manipulation
+*  
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
