@@ -10,3 +10,21 @@ redirect_from:
 This is the home page of Andrew Warrington's personal website!
 
 This site is a work in progress.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
