@@ -11,6 +11,15 @@ This is the home page of Andrew Warrington's personal website!
 
 This site is a work in progress.
 
+Biography
+---------
+I was born and raised in Northern Virginia (NOVA), approximately 25 minutes from Washington, D.C. I attended the University of Virginia where I graduated with a Bachelor of Science with majors in Biology and Psychology. Shortly after graduation, I moved up to Boston and have since been working at Dana-Farber Cancer Institute.
+
+Research Interests
+------------------
+
+I hope to pursue a PhD in either Biostatistics or Computational Biology. 
+
 Hobbies
 -------
 I enjoy reading, running, lifting weights, and cooking. I am an avid fan of film - especially any of Denis Villeneuve's work. 
