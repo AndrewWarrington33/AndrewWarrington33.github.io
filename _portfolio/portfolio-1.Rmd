@@ -1,0 +1,6 @@
+---
+title: "Analysis of Framingham Heart Study Data"
+excerpt: "Exploratory Data Analysis of the Framingham Heart Study<br/><img src='/images/framingham_heart_image.png'>"
+collection: portfolio
+---
+
