@@ -1,6 +1,8 @@
 ---
-title: "Analysis of Framingham Heart Study Data"
-excerpt: "Exploratory Data Analysis of the Framingham Heart Study<br/><img src='/images/framingham_heart_image.png'>"
+title: "An Analysis of Framingham Heart Study Data"
+excerpt: "Expanding upon initial analysis from my Biostatistics class<br/><img src='/images/framingham_heart_image.png'>"
 collection: portfolio
 ---
+# Framingham Heart Study Analysis
 
+I was very interested in finding correlations among the categories capture by the study.
