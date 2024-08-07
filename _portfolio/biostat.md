@@ -1,12 +1,8 @@
 ---
 title: "Biostatistics Final Data Analysis"
-excerpt: "Analysis of the Framingham Heart Study Data for STAT2020 <br/><img src='/images/green_anole.png'>"
+excerpt: "Analysis of the Cox Lab Functional Ecology Data <br/><img src='/images/green_anole.png'>"
 collection: portfolio
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Read in the data:
 
@@ -32,6 +28,7 @@ summary(sham)
 - Mean: **2.309**
 - SD: **1.274607**
 
+
 ```{r}
 sd(ovx$Growth..mm., na.rm = TRUE)
 
@@ -40,9 +37,10 @@ hist(ovx$Growth..mm., main = "Change in Body Length of OVX Lizards", xlab = "Gro
 boxplot(ovx$Growth..mm., main = "Change in Body Length of OVX Lizards", ylab = "Growth (mm)", col = "green")
 ```
 
-The histogram and box plot visualizations indicate a uni-modal, right-skewed distribution. There are at least 3 high outliers and at least
-2 low outliers.  
-The center appears to be around 2.0 mm of growth, with a mean value of 2.309 mm, and a median value of 2.0 mm of growth.The mean being of higher value than the median is also indicative of a right-skewed distribution.
+- The histogram and box plot visualizations indicate a uni-modal, right-skewed distribution. 
+- There are at least 3 high outliers and at least 2 low outliers.  
+- The center appears to be around 2.0 mm of growth, with a mean value of 2.309 mm, and a median value of 2.0 mm of growth.
+- The mean being of higher value than the median is also indicative of a right-skewed distribution.
 
 
 ## Growth (in mm) 5 number summary for the sham group:
@@ -55,6 +53,7 @@ The center appears to be around 2.0 mm of growth, with a mean value of 2.309 mm,
 - Mean: **1.426**
 - SD: **1.042156**
 
+
 ```{r}
 sd(sham$Growth..mm., na.rm = TRUE)
 
@@ -63,9 +62,9 @@ hist(sham$Growth..mm., main = "Change in Body Length of SHAM Lizards", xlab = "G
 boxplot(sham$Growth..mm., main = "Change in Body Length of SHAM Lizards", ylab = "Growth (mm)", col = "red")
 ```
 
-The histogram and boxplot visualizations indicate the growth for the sham group follows a bimodal distribution. There is at least one high outlier and one low outlier.  
-There are two centers, one around 1.0 mm and a center closer to 2.0 mm.  
-The growth for sham group has a mean growth of 1.426 mm and a median growth of 1.0 mm. 
+- The histogram and boxplot visualizations indicate the growth for the sham group follows a bimodal distribution. - - There is at least one high outlier and one low outlier.  
+- There are two centers, one around 1.0 mm and a center closer to 2.0 mm.  
+- The growth for sham group has a mean growth of 1.426 mm and a median growth of 1.0 mm. 
 
 ## Hypothesis Test and Confidence Interval:
 
@@ -93,7 +92,7 @@ the mean sham growth.
 
 *Even though the data itself is slightly right skewed (with outliers, both
 high and low), we have a large enough sample size to assume that the
-sample mean and standard deviation will be approximately Normal.
+sample mean and standard deviation will be approximately normal.
 The anole observations are independent.*
 
 ## Calculating T test statistic:
@@ -113,17 +112,19 @@ sqrt(0.02066388)
 
 0.883 / 0.1437494
 ```
+
 **T_ts = 6.142634**  
 
 **Df = 120** (Degrees of freedom)
 
+
 ## P-Value Calculation:
+A one-sided, right-tailed t-test
 
 ```{r}
 pt(6.142634, df = 120, lower.tail = FALSE)
 ```
 
-A one-sided, right-tailed t-test
 
 **P-value = 5.445521e-09**
 
