@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Biology & Psychology 
-  University of Virginia, 2023
+* B.S. in Biology & Psychology <br />
+  University of Virginia 2023
 
 Work experience
 ======
