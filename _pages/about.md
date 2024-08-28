@@ -13,7 +13,7 @@ This site is a work in progress.
 
 Biography
 ---------
-I was born and raised in Northern Virginia (NOVA), approximately 25 minutes from Washington, D.C. I attended the University of Virginia where I graduated with a Bachelor of Science with majors in Biology and Psychology. Shortly after graduation, I moved up to Boston and have since been working at Dana-Farber Cancer Institute.
+I was born and raised in Northern Virginia (NOVA), approximately 25 minutes from Washington, D.C. I attended the University of Virginia where I graduated with a Bachelor of Science with majors in Biology and Psychology. Shortly after graduation, I moved to Boston and have since been working at Dana-Farber Cancer Institute.
 
 Research Interests
 ------------------
