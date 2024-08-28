@@ -19,11 +19,19 @@ Work experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* R 
+  * Statistical Analysis
+  * Data Visualization
+  * Natural Language Processing
+* Python
+  * Pandas
+  * Numpy
+  * scRNA-seq Analysis
+  * 
+* C++
+* HTML & CSS
+* Linux
+* Git & Github
 * Skill 3
 
 Publications
@@ -40,10 +48,18 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Teaching Assistant - The Neural Basis of Behavior
+  * 
   
 Service and leadership
 ======
-
+* Vice President of the Genomics Society @ UVA
+  * 
+* Director of Activisim and Awareness UAID @ UVA
+  * 
+* Philanthropy Chair for Sigma Nu Beta Chapter
+  * 
+* Mental Health Crisis Line Volunteer
+  * 
+* UVA Hospital Volunteer
+  * 
