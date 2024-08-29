@@ -52,6 +52,10 @@ Skills
 * **Linux**
 * **Git & Github**
 
+Selected Projects and Presentations
+======
+
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
