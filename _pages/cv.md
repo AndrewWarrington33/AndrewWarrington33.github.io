@@ -16,20 +16,20 @@ Education
 
 Work experience
 ======
-**Dana-Farber Cancer Institute**, Boston, MA                      July 2023 - Present
+**Dana-Farber Cancer Institute**, Boston, MA                      July 2023 - Present   
 *Biospecimen Coordinator - Center for Cancer Genomics (CCG)*
 * Directed research study teams in implementing optimal patient sample collection methods from Cross Sectional Interventional Radiology, ensuring strict adherence to IRB protocols in clinical settings over hundreds of collections
 * Developed creative solutions and facilitated key discussions during committee meetings to establish sample inventory processes and standard operating procedures for seven CCG projects
 * Developed and managed extensive specimen databases for collaborators, providing access to hundreds of fields of data and facilitating new scientific insights
 
-**UVA Psychology Department**, Charlottesville, VA                August 2022 - December 2022
+**UVA Psychology Department**, Charlottesville, VA                August 2022 - December 2022   
 *Teaching Assistant - PSYC 2200: The Neural Basis of Behavior*
 * Appointed as a teaching assistant for a class of over 100 students in an introductory neuroscience course
 * Cooperated to devise complex lesson plans with other TAs and lead instructor for 10 lab sessions
 * Created and led exam review sessions for over 100 students
 * Directed and graded assignments and student participation for up to 18 students over 1.5-hour lab sessions
 
-**AbbVie**, South San Francisco, CA                               May 2022 - August 2022
+**AbbVie**, South San Francisco, CA                               May 2022 - August 2022   
 *Experiential Intern - Precision Medicine Pathology*
 * Cooperated with a group of 4 scientists during development of Companion Diagnostic Assays for high-stakes AbbVie therapeutics
 * Updated and transformed information from thousands of frozen biological samples to assist in company-wide initiative to merge biospecimen data across all AbbVie sites
@@ -66,7 +66,7 @@ Talks
   
 Teaching
 ======
-* Teaching Assistant - PSYC2200: The Neural Basis of Behavior
+* **Teaching Assistant** - PSYC2200: The Neural Basis of Behavior
   * 
   
 Service and leadership
