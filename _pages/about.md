@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the home page of Andrew Warrington's personal website!
+**This site is a work in progress!**   
 
-This site is a work in progress.
+This is the home page of Andrew Warrington's personal website!
 
 Biography
 ---------
