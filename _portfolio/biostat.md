@@ -171,3 +171,9 @@ When reproductive mechanisms are removed in OVX, they experience a
 greater growth relative to the sham group that reproduces normally.
 The lack of growth that occurs in reproducing anoles could contribute to
 their lower annual survival rate.
+
+## References
+Data Reference: Cox, RM. (2010)
+*Cox et al. Functional Ecology Data*. Raw data.
+Video Reference: Cox, RM.
+Biostats Bob Cox 100115. Retrieved from UVA Collab
