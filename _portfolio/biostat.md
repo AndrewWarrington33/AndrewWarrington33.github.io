@@ -174,6 +174,6 @@ their lower annual survival rate.
 
 ## References
 Data Reference: Cox, RM. (2010)
-*Cox et al. Functional Ecology Data*. Raw data.
+*Cox et al. Functional Ecology Data*. Raw data.        
 Video Reference: Cox, RM.
 Biostats Bob Cox 100115. Retrieved from UVA Collab
