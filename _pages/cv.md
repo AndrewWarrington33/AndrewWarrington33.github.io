@@ -36,25 +36,19 @@ Work experience
 * Shadowed a board-certified pathologist during QC of hundreds of tissue slides and during the Surgical Pathology Performance Improvement Program offered by the College of American Pathologists (CAP P.I.P.)
 * Presented final results of internship project to entire AbbVie 2022 intern class in a 10-minute talk
 
-Skills
+Skills & Interests
 ======
-* **R** 
-  * Statistical Analysis
-  * Data Visualization
-  * Natural Language Processing
-* **python**
-  * Pandas
-  * Numpy
-  * scRNA-seq Analysis
-  * 
-* **C++**
-* **HTML & CSS**
-* **Linux**
-* **Git & Github**
+* **Programming:** R - - Python - - C++ - - HTML & CSS - - Linux - - Git & Github
+* **Languages:** English (Native) - - Spanish (Intermediate)
+* **Interests:** Long-distance Running - - Cooking - - Lifting Weights - - Poetry & Literature - - Science Fiction Films
+
+Relevant Coursework
+======
+* **In Progress Fall 2024:** Computer Science I - - Calculus II - - Discrete Mathematics
+* Machine Learning & Data Mining - - Intro Data Science w/ R - - Statistics for Biologists - - Research Methods and Data Analysis I & II - - Calculus I - - Physics I & II w/ Lab - - Genetics and Molecular Biology
 
 Selected Projects and Presentations
 ======
-
 
 Publications
 ======
@@ -71,9 +65,8 @@ Talks
 Teaching
 ======
 * **Teaching Assistant** - PSYC2200: The Neural Basis of Behavior
-  * 
   
-Service and leadership
+Service and Leadership
 ======
 * **Vice President of the Genomics Society @ UVA**
   * 
@@ -85,3 +78,4 @@ Service and leadership
   * 
 * **UVA Hospital Volunteer**
   * 
+* **Habitat for Humanity Charlottesville Volunteer**
