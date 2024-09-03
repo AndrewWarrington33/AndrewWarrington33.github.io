@@ -9,7 +9,7 @@ redirect_from:
 
 **This site is a work in progress!**   
 
-This is the home page of Andrew Warrington's personal website!
+This is the home page of Andrew Warrington's personal website.
 
 Biography
 ---------
