@@ -38,14 +38,14 @@ Work experience
 
 Skills & Interests
 ======
-* **Programming:** R * Python * C++ * HTML & CSS * Linux * Git & Github
-* **Languages:** English (Native) * Spanish (Intermediate)
-* **Interests:** Long-distance Running * Cooking * Lifting Weights * Poetry & Literature * Science Fiction Films
+* **Programming:** R | Python | C++ | HTML & CSS | Linux | Git & Github
+* **Languages:** English (Native) | Spanish (Intermediate)
+* **Interests:** Long-distance Running | Cooking | Lifting Weights | Poetry & Literature | Science Fiction Films
 
 Relevant Coursework
 ======
-* **In Progress Fall 2024:** Computer Science I * Calculus II * Discrete Mathematics
-* Machine Learning & Data Mining * Intro Data Science w/ R * Statistics for Biologists * Research Methods and Data Analysis I & II * Calculus I * Physics I & II w/ Lab * Genetics and Molecular Biology
+* **In Progress Fall 2024:** Computer Science I, Calculus II, Discrete Mathematics
+* Machine Learning & Data Mining, Intro Data Science w/ R, Statistics for Biologists, Research Methods and Data Analysis I & II, Calculus I, Physics I & II w/ Lab, Genetics and Molecular Biology
 
 Selected Projects and Presentations
 ======
