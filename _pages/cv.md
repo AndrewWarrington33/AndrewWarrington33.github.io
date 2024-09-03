@@ -38,9 +38,9 @@ Work experience
 
 Skills & Interests
 ======
-* **Programming:** R | Python | C++ | HTML & CSS | Linux | Git & Github
-* **Languages:** English (Native) | Spanish (Intermediate)
-* **Interests:** Long-distance Running | Cooking | Lifting Weights | Poetry & Literature | Science Fiction Films
+* **Programming:** R \vert Python \vert C++ \vert HTML & CSS \vert Linux \vert Git & Github
+* **Languages:** English (Native) \vert Spanish (Intermediate)
+* **Interests:** Long-distance Running \vert Cooking \vert Lifting Weights \vert Poetry & Literature \vert Science Fiction Films
 
 Relevant Coursework
 ======
