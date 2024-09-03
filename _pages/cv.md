@@ -49,7 +49,7 @@ Skills
 Relevant Coursework
 ======
 * **Oakton:** Computer Science I, Calculus II, Discrete Mathematics
-* **UVA:** Machine Learning & Data Mining, Intro Data Science w/ R, Statistics for Biologists, Research Methods and Data Analysis I & II, Calculus I, Physics I & II w/ Lab, Genetics and Molecular Biology
+* **UVA:** Machine Learning & Data Mining, Intro Data Science w/ R, Statistics for Biologists, Research Methods and Data Analysis I & II, Calculus I, Physics I & II w/ Lab, Genetics and Molecular Biology, Psychobiology Laboratory
 
 Selected Projects and Presentations
 ======
