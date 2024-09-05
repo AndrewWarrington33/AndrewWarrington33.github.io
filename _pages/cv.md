@@ -42,6 +42,7 @@ Skills
   * R
   * Python
   * C++
+  * Mathematica
   * HTML & CSS
   * Linux
   * Git & Github
