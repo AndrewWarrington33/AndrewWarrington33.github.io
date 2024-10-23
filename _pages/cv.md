@@ -16,7 +16,11 @@ Education
 
 Work experience
 ======
-**Dana-Farber Cancer Institute**, Boston, MA --- July 2023 - Present      
+**Brigham and Women's Hospital/Dana-Farber Cancer Institute**, Boston, MA --- October 2024 - Present
+*Research Assistant II - Radiation Oncology*
+* 
+
+**Dana-Farber Cancer Institute**, Boston, MA --- July 2023 - October 2024      
 *Biospecimen Coordinator - Center for Cancer Genomics (CCG)*
 * Directed research study teams in implementing optimal patient sample collection methods from Cross Sectional Interventional Radiology, ensuring strict adherence to IRB protocols in clinical settings over hundreds of collections
 * Developed creative solutions and facilitated key discussions during committee meetings to establish sample inventory processes and standard operating procedures for seven CCG projects
