@@ -18,6 +18,7 @@ Work experience
 ======
 **Brigham and Women's Hospital/Dana-Farber Cancer Institute\nArtificial Intelligence in Medicine (AIM) Lab**, Boston, MA --- October 2024 - Present
 *Research Assistant II - Radiation Oncology*
+* Research Assistant in Harvard Medical School's AIM Lab
 * 
 
 **Dana-Farber Cancer Institute**, Boston, MA --- July 2023 - October 2024      
