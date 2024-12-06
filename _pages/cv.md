@@ -16,9 +16,8 @@ Education
 
 Work experience
 ======
-**Brigham and Women's Hospital/Dana-Farber Cancer Institute\nArtificial Intelligence in Medicine (AIM) Lab**, Boston, MA --- October 2024 - Present
-*Research Assistant II - Radiation Oncology*
-* Research Assistant in Harvard Medical School's AIM Lab
+**Brigham and Women's Hospital/Dana-Farber Cancer Institute**, Boston, MA --- October 2024 - Present
+*Research Assistant II - Artificial Intelligence in Medicine (AIM) Lab*
 * 
 
 **Dana-Farber Cancer Institute**, Boston, MA --- July 2023 - October 2024      
@@ -43,7 +42,7 @@ Work experience
 
 Skills
 ======
-* **Programming:**
+* **Technical:**
   * R
   * Python
   * C++
@@ -81,13 +80,16 @@ Teaching
 Service and Leadership
 ======
 * **Vice President of the Genomics Society @ UVA**
-  * 
+  * I served as the Marketing and Outreach Officer of the Genomics Society from 2020-2022. I served as the Vice President of the organization from 2022-2023. 
 * **Director of Activisim and Awareness UAID @ UVA**
   * 
 * **Philanthropy Chair for Sigma Nu Beta Chapter**
+  * I was elected as the 2021 philanthropy chair for the Beta Chapter of Sigma Nu.
+* **Effective Altruism @ UVA** 
+  * I was selected for a semester long Effective Altruism Fellowship in the Spring of 2021. I was then trained to be a discussion facilitator for the following semesters.
   * 
 * **Mental Health Crisis Line Volunteer**
   * 
 * **UVA Hospital Volunteer**
-  * 
+  * I joined UAID's chapter at the University of Virginia in the Fall of 2020. In the Fall of 2021, I became the Director of Activism and Awareness for the chapter.
 * **Habitat for Humanity Charlottesville Volunteer**
