@@ -82,7 +82,7 @@ Service and Leadership
 * **Vice President of the Genomics Society @ UVA**
   * I served as the Marketing and Outreach Officer of the Genomics Society from 2020-2022. I served as the Vice President of the organization from 2022-2023. 
 * **Director of Activisim and Awareness UAID @ UVA**
-  * 
+  * I joined UAID's chapter at the University of Virginia in the Fall of 2020. In the Fall of 2021 I became the Director of Activism and Awareness for the chapter.
 * **Philanthropy Chair for Sigma Nu Beta Chapter**
   * I was elected as the 2021 philanthropy chair for the Beta Chapter of Sigma Nu.
 * **Effective Altruism @ UVA** 
