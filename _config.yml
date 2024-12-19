@@ -27,7 +27,7 @@ author:
   bio              : "Graduate of the University of Virginia |\nInterested in Neuroscience, Cancer Genomics, and Computational Biology"
   location         : "Boston, MA"
   employer         : "BWH/DFCI AIM Lab"
-  uri              : # URL
+  employer_url     : "https://aim.hms.harvard.edu/"
   email            : "andrewwarrington45@gmail.com" 
 
   # Academic websites

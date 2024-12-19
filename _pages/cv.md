@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 **Brigham and Women's Hospital/Dana-Farber Cancer Institute**, Boston, MA --- October 2024 - Present
-*Research Assistant II - Artificial Intelligence in Medicine (AIM) Lab*
+* Research Assistant II - [Artificial Intelligence in Medicine (AIM) Lab](https://aim.hms.harvard.edu/) *
 **Dana-Farber Cancer Institute**, Boston, MA --- July 2023 - October 2024      
 *Biospecimen Coordinator - Center for Cancer Genomics (CCG)*
 * Directed research study teams in implementing optimal patient sample collection methods from Cross Sectional Interventional Radiology, ensuring strict adherence to IRB protocols in clinical settings over hundreds of collections
@@ -52,7 +52,7 @@ Skills
 Relevant Coursework
 ======
 * **Oakton:**
-  * **In Progress:** Computer Science I, Calculus II, Discrete Mathematics
+  * **Completed:** Computer Science I, Calculus II, Discrete Mathematics
   * **Planned:** Data Structures, Calculus III, Introduction to Linear Algebra, Objects and Algorithms, Ordinary Differential Equations, Introduction to Artificial Intelligence
 * **UVA:** Machine Learning & Data Mining, Intro Data Science w/ R, Statistics for Biologists, Research Methods and Data Analysis I & II, Calculus I, Physics I & II w/ Lab, Genetics and Molecular Biology, Psychobiology Laboratory
 
