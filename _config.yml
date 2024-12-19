@@ -21,7 +21,7 @@ repository               : "AndrewWarrington33.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Andrew Warrington"
   pronouns         : "he/him/his"  
   bio              : "Graduate of the University of Virginia |\nInterested in Neuroscience, Cancer Genomics, and Computational Biology"
@@ -44,11 +44,11 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "AndrewWarrington33"
-  kaggle           : # Username  
+  kaggle           : "andrewwarrington33"  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # Username
+  bluesky          : "andrewwarrington.bsky.social"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
