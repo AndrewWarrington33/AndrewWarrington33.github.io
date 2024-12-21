@@ -38,7 +38,9 @@ Work experience
 **AbbVie**, South San Francisco, CA --- May 2022 - August 2022   
 *Experiential Intern - Precision Medicine Pathology*
 * Cooperated with a group of 4 scientists during development of Companion Diagnostic Assays for high-stakes AbbVie therapeutics
-* Updated and transformed information from thousands of frozen biological samples to assist
+* Updated and transformed information from thousands of frozen biological samples to assist in company-wide initiative to merge biospecimen data across all AbbVie sites
+* Shadowed a board-certified pathologist during QC of hundreds of tissue slides and during the Surgical Pathology Performance Improvement Program offered by the College of American Pathologists (CAP P.I.P.)
+* Presented results of internship project to entire AbbVie 2022 intern class in a 10-minute talk
 
 Skills
 ======
