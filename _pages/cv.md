@@ -17,7 +17,8 @@ Education
 Work experience
 ======
 **Brigham and Women's Hospital/Dana-Farber Cancer Institute**, Boston, MA --- October 2024 - Present
-*Research Assistant II - [Artificial Intelligence in Medicine (AIM) Lab](https://aim.hms.harvard.edu/)*
+* Research Assistant II - [Artificial Intelligence in Medicine (AIM) Lab](https://aim.hms.harvard.edu/)
+
 * Wrote R and Python scripts to perform GWAS on MGB Biobank data
 * Edited, revised, and submitted IRB protocols, consent forms, and laboratory manuals
 
@@ -37,9 +38,7 @@ Work experience
 **AbbVie**, South San Francisco, CA --- May 2022 - August 2022   
 *Experiential Intern - Precision Medicine Pathology*
 * Cooperated with a group of 4 scientists during development of Companion Diagnostic Assays for high-stakes AbbVie therapeutics
-* Updated and transformed information from thousands of frozen biological samples to assist in company-wide initiative to merge biospecimen data across all AbbVie sites
-* Shadowed a board-certified pathologist during QC of hundreds of tissue slides and during the Surgical Pathology Performance Improvement Program offered by the College of American Pathologists (CAP P.I.P.)
-* Presented final results of internship project to entire AbbVie 2022 intern class in a 10-minute talk
+* Updated and transformed information from thousands of frozen biological samples to assist
 
 Skills
 ======
