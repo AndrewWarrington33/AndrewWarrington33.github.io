@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-**Brigham and Women's Hospital/Dana-Farber Cancer Institute**, Boston, MA --- October 2024 - Present\n
+**Brigham and Women's Hospital/Dana-Farber Cancer Institute**, Boston, MA --- October 2024 - Present  
 *Research Assistant II - [Artificial Intelligence in Medicine (AIM) Lab](https://aim.hms.harvard.edu/)*
 
 * Wrote R and Python scripts to perform GWAS on MGB Biobank data
