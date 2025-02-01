@@ -8,11 +8,9 @@ tags:
   - Jon Fosse
 ---
 
-# Septology
-
 This post contains my review of Jon Fosse's Septology (I-VII).
 
-![Book Cover of Jon Fosse's Septology](../images/septology-cover.jpg)
+![Book Cover of Jon Fosse's Septology](/images/septology-cover.jpg)
 
 ## Favorite Quote
 
