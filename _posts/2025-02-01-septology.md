@@ -7,8 +7,8 @@ tags:
   - literature
   - Jon Fosse
 ---
+![Book Cover of Jon Fosse's Septology](../images/septology-cover.jpg "Cover of Jon Fosse's Septology")
 
-![Book Cover](../images/septology-cover.jpg)
 *Jon Fosse's Septology (I-VII)*
 
 ## Favorite Quote
@@ -69,5 +69,3 @@ I would recommend this book to anyone who is looking for a unique and thought-pr
 
 **Related Reading:**
 - Stoner by John Edward Williams
-
--
