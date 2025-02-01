@@ -2,14 +2,16 @@
 title: 'Contemplations on Septology'
 date: 2025-02-01
 permalink: /posts/2025/02/septology/
+header:
+  teaser: (../images/septology-cover.jpg)
 tags:
   - book reviews
   - literature
   - Jon Fosse
 ---
-![Book Cover of Jon Fosse's Septology](../images/septology-cover.jpg "Cover of Jon Fosse's Septology")
 
-*Jon Fosse's Septology (I-VII)*
+# Septology
+
 
 ## Favorite Quote
 
