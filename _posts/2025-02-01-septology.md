@@ -2,8 +2,6 @@
 title: 'Contemplations on Septology'
 date: 2025-02-01
 permalink: /posts/2025/02/septology/
-header:
-  teaser: (../images/septology-cover.jpg)
 tags:
   - book reviews
   - literature
@@ -12,8 +10,12 @@ tags:
 
 # Septology
 
+This post contains my review of Jon Fosse's Septology (I-VII).
+
+![Book Cover of Jon Fosse's Septology](../images/septology-cover.jpg)
 
 ## Favorite Quote
+
 
 *“and what the picture is in reality is this spirit, that’s what a picture really is, neither matter nor soul but both parts at the same time and together they make up what I think of as spirit, and maybe that’s why my good paintings, yes, all good paintings, have something to do with what I, what Christians, call The Holy Spirit, because all good art has this spirit, good pictures, good poems, good music, and what makes it good is not the material, not matter, and it’s not the content, the idea, the thought, no, what makes it good is just this unity of matter and form and soul that becomes spirit, that’s what culture is, probably, he says, it’s probably just one person being like another person that creates a culture, for example wearing a suit and tie, while what art is, yes, art is everyone just being like themselves, and totally themselves”*
 
