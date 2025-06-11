@@ -16,8 +16,12 @@ Education
 
 Work experience
 ======
-**Brigham and Women's Hospital/Dana-Farber Cancer Institute**, Boston, MA --- October 2024 - Present
-* Research Assistant II - [Artificial Intelligence in Medicine (AIM) Lab](https://aim.hms.harvard.edu/) *
+**Brigham and Women's Hospital/Dana-Farber Cancer Institute**, Boston, MA --- October 2024 - Present  
+*Research Assistant II - [Artificial Intelligence in Medicine (AIM) Lab](https://aim.hms.harvard.edu/)*
+
+* Wrote R and Python scripts to perform GWAS on MGB Biobank data
+* Edited, revised, and submitted IRB protocols, consent forms, and laboratory manuals 
+
 **Dana-Farber Cancer Institute**, Boston, MA --- July 2023 - October 2024      
 *Biospecimen Coordinator - Center for Cancer Genomics (CCG)*
 * Directed research study teams in implementing optimal patient sample collection methods from Cross Sectional Interventional Radiology, ensuring strict adherence to IRB protocols in clinical settings over hundreds of collections
@@ -36,7 +40,7 @@ Work experience
 * Cooperated with a group of 4 scientists during development of Companion Diagnostic Assays for high-stakes AbbVie therapeutics
 * Updated and transformed information from thousands of frozen biological samples to assist in company-wide initiative to merge biospecimen data across all AbbVie sites
 * Shadowed a board-certified pathologist during QC of hundreds of tissue slides and during the Surgical Pathology Performance Improvement Program offered by the College of American Pathologists (CAP P.I.P.)
-* Presented final results of internship project to entire AbbVie 2022 intern class in a 10-minute talk
+* Presented results of internship project to entire AbbVie 2022 intern class in a 10-minute talk
 
 Skills
 ======
