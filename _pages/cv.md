@@ -58,7 +58,7 @@ Skills
 Relevant Coursework
 ======
 * **Oakton:**
-  * **Completed:** Computer Science I, Calculus II, Discrete Mathematics, Data Structures, Calculus III, Introduction to Linear Algebra, Ordinary Differential Equations,
+  * **Completed:** Computer Science I, Calculus II, Discrete Mathematics, Data Structures, Calculus III, Introduction to Linear Algebra, Ordinary Differential Equations
   * **Planned:** Objects and Algorithms, Introduction to Artificial Intelligence
 * **UVA:** Machine Learning & Data Mining, Intro Data Science w/ R, Statistics for Biologists, Research Methods and Data Analysis I & II, Calculus I, Physics I & II w/ Lab, Genetics and Molecular Biology, Psychobiology Laboratory
 
@@ -93,7 +93,12 @@ Service and Leadership
   * I was selected for a semester long Effective Altruism Fellowship in the Spring of 2021. I was then trained to be a discussion facilitator for the following semesters.
   * 
 * **Mental Health Crisis Line Volunteer**
+  * Served as a volunteer at HELP Line, a 24/7 confidential telephone hotline serving Albemarle County and UVA students (Open to anyone in the U.S.A.)
+  * Completed intensive semester-long training program to develop crisis intervention and active listening skills
+  * Provided empathetic, non-judgmental support to callers dealing with various concerns including mental health and relationship issues
+  * Connected callers with appropriate long-term resources and professional services
   * 
 * **UVA Hospital Volunteer**
   * I joined UAID's chapter at the University of Virginia in the Fall of 2020. In the Fall of 2021, I became the Director of Activism and Awareness for the chapter.
 * **Habitat for Humanity Charlottesville Volunteer**
+  * I volunteered with Habitat for Humanity Charlottesville to help build homes for families in need.
