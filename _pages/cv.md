@@ -21,12 +21,12 @@ Work experience
 
 * Wrote R and Python scripts to perform GWAS on MGB Biobank data
 * Edited, revised, and submitted IRB protocols, consent forms, and laboratory manuals 
-*[FaceAge Website]*(https://)
+* *[FaceAge Website]*(https://)
   * Built a Flask-based web app for face age estimation with secure REDCap integration and Dropbox storage, leveraging RQ/Redis for background processing and Docker for reproducible deployments (Azure-ready).
       * Implemented end-to-end photo pipeline (face detection, preprocessing, inference), robust CSRF/session security, and configurable settings via Pydantic; added logs, uploads, and model checkpoint management.
       * Orchestrated external services in a resilient integration layer with error handling, return-code auth flow, and environment-driven configuration; supported demo mode for UX/testing without live credentials.
       * Performance-tested critical flows (JMeter plan included) and separated worker/scheduler processes to improve reliability under load.*
-*FacePhenoAge*
+* *FacePhenoAge*
   * Built an end-to-end facial biomarker pipeline (ViT) to estimate biological age (PhenoAge) and mortality risk from photos via transfer learning from FAHR-FaceAge with selective layer freezing;
   * Designed leakage-free evaluation (80/10/10 split) with independent 1,244-patient external validation, enabling head-to-head comparison with lab PhenoAge and supporting clinical translation.
 
