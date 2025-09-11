@@ -60,14 +60,14 @@ Skills
   * HTML & CSS
   * Linux
   * Git & Github
+  * Docker
+  * Azure
 
 Relevant Coursework
 ======
 * **Oakton:**
-  * **In Progress:** Ordinary Differential Equations
-  * **Completed:** Computer Science I, Calculus II, Discrete Mathematics, Calculus III, Introduction to Linear Algebra, Data Structures,
-  * **Planned:**  Objects and Algorithms, Ordinary Differential Equations
-
+  * **Completed:** Computer Science I, Calculus II, Discrete Mathematics, Data Structures, Calculus III, Introduction to Linear Algebra, Ordinary Differential Equations
+  * **Planned:** Objects and Algorithms, Introduction to Artificial Intelligence
 * **UVA:** Machine Learning & Data Mining, Intro Data Science w/ R, Statistics for Biologists, Research Methods and Data Analysis I & II, Calculus I, Physics I & II w/ Lab, Genetics and Molecular Biology, Psychobiology Laboratory
 
 Selected Projects and Presentations
