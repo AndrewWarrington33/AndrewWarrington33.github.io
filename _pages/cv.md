@@ -1,13 +1,17 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /cv/s
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
+
+Andrew Warrington
+======  
+Boston, MA | andrewwarrington45@gmail.com | [GitHub](https://github.com/AndrewWarrington33) | [LinkedIn](https://linkedin.com/in/andrew-warrington) | [ORCID](https://orcid.org/0009-0009-4830-5683)
 
 Education
 ======
@@ -16,7 +20,7 @@ Education
 
 Work experience
 ======
-**Brigham and Women's Hospital/Dana-Farber Cancer Institute**, Boston, MA --- October 2024 - Present  
+**BWH/DFCI**, Boston, MA --- October 2024 - Present  
 *Research Assistant II - [Artificial Intelligence in Medicine (AIM) Lab](https://aim.hms.harvard.edu/)*
 
 * Conducted large-scale genomic and clinical analyses (GWAS, AI-driven clinical phenotyping) across MGB Biobank, radiation oncology, healthy volunteer, and geriatric cohorts.
@@ -34,38 +38,54 @@ Work experience
 
 **Dana-Farber Cancer Institute**, Boston, MA --- July 2023 - October 2024      
 *Biospecimen Coordinator - Center for Cancer Genomics (CCG)*
+
 * Directed research study teams in implementing optimal patient sample collection methods from Cross Sectional Interventional Radiology, ensuring strict adherence to IRB protocols in clinical settings over hundreds of collections
+
 * Developed creative solutions and facilitated key discussions during committee meetings to establish sample inventory processes and standard operating procedures for seven CCG projects
+
 * Developed and managed extensive specimen databases for collaborators, providing access to hundreds of fields of data and facilitating new scientific insights
 
 **UVA Psychology Department**, Charlottesville, VA --- August 2022 - December 2022      
 *Teaching Assistant - PSYC 2200: The Neural Basis of Behavior*
+
 * Appointed as a teaching assistant for a class of over 100 students in an introductory neuroscience course
+
 * Cooperated to devise complex lesson plans with other TAs and lead instructor for 10 lab sessions
+
 * Created and led exam review sessions for over 100 students
+
 * Directed and graded assignments and student participation for up to 18 students over 1.5-hour lab sessions
 
 **AbbVie**, South San Francisco, CA --- May 2022 - August 2022   
 *Experiential Intern - Precision Medicine Pathology*
+
 * Cooperated with a group of 4 scientists during development of Companion Diagnostic Assays for high-stakes AbbVie therapeutics
+
 * Updated and transformed information from thousands of frozen biological samples to assist in company-wide initiative to merge biospecimen data across all AbbVie sites
+
 * Shadowed a board-certified pathologist during QC of hundreds of tissue slides and during the Surgical Pathology Performance Improvement Program offered by the College of American Pathologists (CAP P.I.P.)
+
 * Presented results of internship project to entire AbbVie 2022 intern class in a 10-minute talk
 
 Skills
 ======
 * **Programming & Data Analysis:** Python (pandas, numpy, scikit-learn), R, C++, PyTorch, CUDA, Docker, Git/GitHub, Linux, Mathematica, genome-wide association studies (GWAS), CLI tools  
-* **Web & Systems:** Flask, HTML/CSS, Azure, Redis/RQ, micromamba/env management,  
+
+* **Web & Systems:** Flask, HTML/CSS, Azure, Redis/RQ, micromamba/env management 
+
 * **Machine Learning:** Vision Transformers (ViT), transfer learning, regression and survival modeling
+
 * **Clinical & Research Data:** REDCap and RPDR integration, data cleaning, cohort building, temporal alignment of labs/clinical events, radiation dose (EQD2) harmonization  
+
 * **Automation:** REDCap API workflows, Dropbox file operations, reproducible pipelines, task scheduling and background processing  
+
 * **Data Quality & Statistics:** Missing data imputation, outlier detection, dataset completeness tracking, sensitivity/specificity and predictive value metrics
 
 Relevant Coursework
 ======
 * **Oakton:**
   * **Completed:** Computer Science I, Calculus II, Discrete Mathematics, Data Structures, Calculus III, Introduction to Linear Algebra, Ordinary Differential Equations
-  * **Planned:** Objects and Algorithms, Introduction to Artificial Intelligence
+  * **In Progress:** Objects and Algorithms
 * **UVA:** Machine Learning & Data Mining, Intro Data Science w/ R, Statistics for Biologists, Research Methods and Data Analysis I & II, Calculus I, Physics I & II w/ Lab, Genetics and Molecular Biology, Psychobiology Laboratory
 
 Selected Projects and Presentations
@@ -97,13 +117,11 @@ Service and Leadership
   * I was elected as the 2021 philanthropy chair for the Beta Chapter of Sigma Nu.
 * **Effective Altruism @ UVA** 
   * I was selected for a semester long Effective Altruism Fellowship in the Spring of 2021. I was then trained to be a discussion facilitator for the following semesters.
-  * 
 * **Mental Health Crisis Line Volunteer**
   * Served as a volunteer at HELP Line, a 24/7 confidential telephone hotline serving Albemarle County and UVA students (Open to anyone in the U.S.A.)
   * Completed intensive semester-long training program to develop crisis intervention and active listening skills
   * Provided empathetic, non-judgmental support to callers dealing with various concerns including mental health and relationship issues
   * Connected callers with appropriate long-term resources and professional services
-  * 
 * **UVA Hospital Volunteer**
   * I joined UAID's chapter at the University of Virginia in the Fall of 2020. In the Fall of 2021, I became the Director of Activism and Awareness for the chapter.
 * **Habitat for Humanity Charlottesville Volunteer**
