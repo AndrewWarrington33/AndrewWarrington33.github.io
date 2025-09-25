@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-**BWH/DFCI**, Boston, MA --- October 2024 - Present  
+**Brigham and Women's Hospital**, Boston, MA --- October 2024 - Present  
 *Research Assistant II - [Artificial Intelligence in Medicine (AIM) Lab](https://aim.hms.harvard.edu/)*
 
 * Conducted large-scale genomic and clinical analyses (GWAS, AI-driven clinical phenotyping) across MGB Biobank, radiation oncology, healthy volunteer, and geriatric cohorts.
