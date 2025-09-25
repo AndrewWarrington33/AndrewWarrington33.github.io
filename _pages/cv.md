@@ -11,7 +11,7 @@ redirect_from:
 
 Andrew Warrington
 ======  
-Boston, MA | andrewwarrington45@gmail.com | [GitHub](https://github.com/AndrewWarrington33) | [LinkedIn](https://linkedin.com/in/andrew-warrington) | [ORCID](https://orcid.org/0009-0009-4830-5683)
+Boston, MA | andrew.warrington.research+cv@gmail.com | [GitHub](https://github.com/AndrewWarrington33) | [LinkedIn](https://linkedin.com/in/andrew-warrington) | [ORCID](https://orcid.org/0009-0009-4830-5683)
 
 Education
 ======
