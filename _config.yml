@@ -21,7 +21,7 @@ repository               : "AndrewWarrington33.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.jpeg"
   name             : "Andrew Warrington"
   pronouns         : "he/him/his"  
   bio              : "Graduate of the University of Virginia |\nInterested in Neuroscience, Cancer Genomics, and Computational Biology"
