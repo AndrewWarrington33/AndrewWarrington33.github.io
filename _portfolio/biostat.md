@@ -1,7 +1,7 @@
 ---
 title: "Biostatistics Final Data Analysis"
 excerpt: "Analysis of the Cox Lab Functional Ecology Data <br/><img src='/images/green_anole.png'>"
-collection: portfolio
+collection:
 ---
 
 ## Read in the data:
