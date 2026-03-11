@@ -1,5 +1,5 @@
 ---
-title: 'Contemplations on Septology'
+title: 'Septology'
 date: 2025-02-01
 permalink: /posts/2025/02/septology/
 tags:
