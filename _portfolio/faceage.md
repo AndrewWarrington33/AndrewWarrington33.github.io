@@ -6,6 +6,8 @@ header:
   teaser: "faceage-preview.jpg"
 ---
 
+![FaceAge Web Application](/images/faceage-preview.jpg)
+
 **Clinical Research Platform | MGB**
 **Production:** [faceage.bwh.harvard.edu](https://faceage.bwh.harvard.edu)
 
