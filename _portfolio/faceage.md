@@ -2,6 +2,8 @@
 title: "FaceAge Web Application"
 excerpt: "Full-stack clinical research platform for IRB-approved FaceAge studies at Mass General Brigham"
 collection: portfolio
+header:
+  teaser: "faceage-preview.png"
 ---
 
 **Clinical Research Platform | MGB**
