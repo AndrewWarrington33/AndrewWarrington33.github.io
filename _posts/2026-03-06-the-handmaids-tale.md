@@ -8,7 +8,7 @@ tags:
   - Margaret Atwood
 ---
 
-This post contains my review of Margaret Atwood's The Handmaid's Tale.
+This post contains my review of Margaret Atwood's *The Handmaid's Tale*.
 
 ![Book Cover of Margaret Atwood's The Handmaid's Tale](/images/the-handmaids-tale.jpg)
 

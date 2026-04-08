@@ -9,7 +9,7 @@ tags:
   - Kazuo Ishiguro
   - Matthew Desmond
 
-This post contains my thoughts on Never Let Me Go by Kazuo Ishiguro and Poverty, By America by Matthew Desmond.
+This post contains my thoughts on *Never Let Me Go by Kazuo Ishiguro* and *Poverty, By America by Matthew Desmond*.
 
 Book Cover of Kazuo Ishiguro's Never Let Me Go
 Book Cover of Matthew Desmond's Poverty, By America
