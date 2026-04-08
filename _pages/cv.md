@@ -33,8 +33,7 @@ Work experience
 
 * Authored and revised IRB protocols, consent forms, and operational documentation; independently managed 7 IRB-approved protocols across MGB and the Dana-Farber/Harvard Cancer Center.
 
-* Initiated and independently managed recruitment, consent, and administration of screening tools for the interventional Lung-GAP trial in geriatric lung cancer patients (NCT06987890
-).
+* Initiated and independently managed recruitment, consent, and administration of screening tools for the interventional Lung-GAP trial in geriatric lung cancer patients (NCT06987890).
 
 **Dana-Farber Cancer Institute**, Boston, MA --- July 2023 - October 2024      
 *Biospecimen Coordinator - Center for Cancer Genomics (CCG)*
@@ -131,3 +130,22 @@ Service and Leadership
   * I joined UAID's chapter at the University of Virginia in the Fall of 2020. In the Fall of 2021, I became the Director of Activism and Awareness for the chapter.
 * **Habitat for Humanity Charlottesville Volunteer**
   * I volunteered with Habitat for Humanity Charlottesville to help build homes for families in need.
+
+Fitness
+======
+2025 Marine Corps Marathon Finisher (*50th anniversary*)
+* 3:44:44
+* 3,959 out of 30,085 Overall
+* 3,052 out of 17,758 Male Gender
+* 668 out of Male 25-29 Age Group
+
+2024 Washington D.C. Spartan Sprint 5k | 20 Obstacles
+* 1:05:19
+* 132 out of 1772 Overall
+* 113 out of 1106 Gender
+
+2023 Dana-Farber Half-Marathon Finisher
+* 1:43:34
+* 868 out of 6297 Overall
+* 676 out of 2,899 Male Gender
+* 96 out of 320 Male 20-24 Age Group

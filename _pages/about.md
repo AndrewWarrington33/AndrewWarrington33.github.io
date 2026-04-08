@@ -13,7 +13,7 @@ This is the home page of Andrew Warrington's personal website.
 
 Biography
 ---------
-I was born and raised in Northern Virginia. I attended the University of Virginia where I graduated with a Bachelor of Science with majors in Biology and Psychology. Shortly after graduation, I moved to Boston and began working at the Center for Cancer Genomics within the Dana-Farber Cancer Institute. I am currently working as a Research Assistant in the Artificial Intelligence in Medicine (AIM) Lab under the supervision of Raymond Mak, MD.
+I was born and raised in Northern Virginia. I attended the University of Virginia where I graduated with a Bachelor of Science with majors in Biology and Psychology. Shortly after graduation, I moved to Boston and began working at the Center for Cancer Genomics within the Dana-Farber Cancer Institute. I began taking Computer Science courses at Oakton Community College in the Fall of 2024. I am currently working as a Research Assistant in the Artificial Intelligence in Medicine (AIM) Lab under the supervision of Raymond Mak, MD.
 
 Research Interests
 ------------------
