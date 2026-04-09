@@ -149,3 +149,8 @@ Fitness
 * 868 out of 6297 Overall
 * 676 out of 2,899 Male Gender
 * 96 out of 320 Male 20-24 Age Group
+
+Language
+======
+* **Spanish**
+  * B1 (Intermediate)
