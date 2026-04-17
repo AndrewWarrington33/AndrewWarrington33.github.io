@@ -25,15 +25,15 @@ Work experience
 
 * Conducted large-scale genomic and clinical analyses (GWAS, AI-driven clinical phenotyping) across MGB Biobank, radiation oncology, healthy volunteer, and geriatric cohorts.
 
-* Built and deployed facial biomarker pipelines (FaceAge, FacePhenoAge, FaceSurvival) using ViT-based transfer learning with leakage-free validation and external cohort testing to advance AI-derived biomarkers of aging and longevity.
+* Built facial biomarker pipelines using ViT-based transfer learning for AI-derived biomarkers of aging and longevity. FacePhenoAge: fine-tuned FAHR-FaceAge predict PhenoAge, a 9-biomarker laboratory biological age marker, from facial photographs. 
 
-* Developed a Flask-based web app with REDCap/Dropbox integration, secure photo pipelines, Dockerized deployment, and background task orchestration.
+* Developed and deployed the [FaceAge website](https://faceage.bwh.harvard.edu) — a clinical research platform for two IRB-approved studies collecting facial photographs and running ViT-based biological age estimation. *Tech stack:* Flask/Gunicorn, Nginx, Docker (5-container orchestration), Redis/RQ, SQLite. *Features:* e-consent with PDF generation, bcrypt authentication with account lockout and session management, webcam/file photo upload, FaceAge processing and inference pipeline, asynchronous job processing (scheduler → worker pipeline), REDCap and Dropbox integration for HIPAA-compliant data and photo storage. Security hardening: (HTTPS/TLS, Flask-Talisman CSP/HSTS, CSRF protection, rate limiting, input validation and sanitation). All while coordinating simultaneous IRB and IT requirements across MGB infrastructure.
 
-* Engineered multi-stage pipelines for cohort curation, data harmonization (labs, dose metrics, temporal alignment), and automated REDCap/Dropbox workflows supporting clinical research.
+* Engineered multi-stage pipelines for cohort curation, data harmonization, and automated REDCap/Dropbox workflows supporting clinical research.
 
 * Authored and revised IRB protocols, consent forms, and operational documentation; independently managed 7 IRB-approved protocols across MGB and the Dana-Farber/Harvard Cancer Center.
 
-* Initiated and independently managed recruitment, consent, and administration of screening tools for the interventional Lung-GAP trial in geriatric lung cancer patients (NCT06987890).
+* Initiated and managed recruitment, consent, and administration of screening tools for the interventional Lung-GAP (DFHCC 25-009) trial in geriatric lung cancer patients (NCT06987890).
 
 **Dana-Farber Cancer Institute**, Boston, MA --- July 2023 - October 2024      
 *Biospecimen Coordinator - Center for Cancer Genomics (CCG)*
@@ -68,17 +68,17 @@ Work experience
 
 Skills
 ======
-* **Programming & Data Analysis:** Python (pandas, numpy, scikit-learn), R, C++, PyTorch, CUDA, Docker, Git/GitHub, Linux, Mathematica, genome-wide association studies (GWAS), CLI tools  
+* **Programming & Data Analysis:** Python (pandas, numpy, scikit-learn), Rust, R, C++, PyTorch, CUDA, Docker, Git/GitHub, Linux
 
-* **Web & Systems:** Flask, HTML/CSS, Azure, Redis/RQ, micromamba/env management 
+* **Web & Systems:** Flask/Gunicorn, Nginx, HTML/CSS, Redis/RQ, SQLite, Docker Compose (multi-container orchestration), dev-stage-prod environment management
 
-* **Machine Learning:** Vision Transformers (ViT), transfer learning, regression and survival modeling
+* **Security:** authentication, Flask-Talisman (CSP/HSTS), CSRF protection, rate limiting, HTTPS/TLS, session management, input validation
 
-* **Clinical & Research Data:** REDCap and RPDR integration, data cleaning, cohort building, temporal alignment of labs/clinical events, radiation dose (EQD2) harmonization  
+* **Machine Learning:** Vision Transformers (ViT), transfer learning, regression and survival modeling, survival analysis
 
-* **Automation:** REDCap API workflows, Dropbox file operations, reproducible pipelines, task scheduling and background processing  
+* **Clinical & Research Data:** REDCap and RPDR integration, data cleaning and visualization, temporal alignment of labs/clinical events, radiation dose (EQD2) harmonization, CBC lab linkage, ICD phenotyping
 
-* **Data Quality & Statistics:** Missing data imputation, outlier detection, dataset completeness tracking, sensitivity/specificity and predictive value metrics
+* **Automation:** REDCap API, Dropbox App Console, reproducible clinical data analysis pipelines, task scheduling and background processing, SMTP email integration
 
 Relevant Coursework
 ======
@@ -90,7 +90,6 @@ Honors & Awards
 ======
 * **Oakton Community College:**
   * **Joe and Mary Chandler Scholarship Fund 2024 Recipient**
-
 
 Selected Projects and Presentations
 ======
