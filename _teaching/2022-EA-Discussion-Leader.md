@@ -10,7 +10,7 @@ location: "Charlottesville, VA"
 **Role:** Discussion Leader
 
 **Course Description:** 
-From the Effective Altruisim at UVA [website](https://ea-uva.org/)    
+From the Effective Altruisim at UVA [website](https://effectivealtruismatuva.wordpress.com/fellowship/)
 
 Effective Altruism is a philosophical and social movement focused on answering one question: *How can we best help others?*   
 
